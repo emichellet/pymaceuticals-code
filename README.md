@@ -40,8 +40,7 @@ In this assignment, you’ll apply what you've learned about Matplotlib to a rea
 - Generate two bar charts. Both charts should be identical and show the total number of time points for all mice tested for each drug regimen throughout the study.
 - Create the first bar chart with the Pandas DataFrame.plot() method.
 - Create the second bar chart with Matplotlib's pyplot methods.
-
-## Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
+- Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
 - Create the first pie chart with the Pandas DataFrame.plot() method.
 - Create the second pie chart with Matplotlib's pyplot methods.
 
