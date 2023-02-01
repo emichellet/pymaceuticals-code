@@ -11,9 +11,6 @@ In this assignment, you’ll apply what you've learned about Matplotlib to a rea
 
 - The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
-## Files
-- Download the following files to help you get started:
-
 ## Instructions
 # This assignment is broken down into the following tasks:
 - Prepare the data.
